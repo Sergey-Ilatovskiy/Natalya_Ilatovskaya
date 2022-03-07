@@ -1,6 +1,17 @@
 *{
-text-align: center
+text-align: center;
+width: : 1000px;
+background-image: url("img7.jpg");
+font-family: 'Amatic SC', cursive;
+font-family: 'Dancing Script', cursive;
+font-size: 40px;
 
+}
+.Contacts{
+text-decoration-color: black ;
 
+}
+.Title{
+font-size: 70px;
 
 }
